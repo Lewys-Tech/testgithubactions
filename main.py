@@ -1,4 +1,5 @@
-X= int(input("what is X?")
-Y= int(input("what is Y?")
-if X>Y:
-       print("X is less that Y")
+def main():
+    print("Hello, GitHub Actions!")
+    
+if __name__ == "__main__":
+    main()
